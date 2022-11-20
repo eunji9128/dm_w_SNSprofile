@@ -49,3 +49,17 @@ table {
 .fs-80px {
     font-size: 80px;
 }
+
+.fs-14px {
+    font-size: 14px;
+}
+
+.vr-md-hidden {
+    opacity: 0.25;
+}
+
+@media screen and (max-width: 768px) {
+    .vr-md-hidden {
+        opacity: 0;
+    }
+}
