@@ -45,3 +45,7 @@ table {
 .border-skyblue {
     border-color: #6fbaf8;
 }
+
+.fs-80px {
+    font-size: 80px;
+}
